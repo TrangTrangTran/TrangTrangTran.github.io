@@ -1,13 +1,13 @@
-title: Trang Tran # your name (or website title) here
-logo: "/images/image.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+title: <p align="center">Trang Tran 
+logo: "/images/image.png?raw=true"
+
+description:
+  A data enthusiast wants to find hard problems that data can solve.
+  A lifelong learner wants to make my life a learning journey.
   <br><br>
   Email: trangtran.work.23@gmail.com
-  <br><br>
-  <a href="https://www.linkedin.com/in/trangtran1995/"> My LinkedIn Profile</a>
+  <br>
+  <a href="https://www.linkedin.com/in/trangtran1995/"> View My LinkedIn Profile</a>
   <br><br>
   
   
