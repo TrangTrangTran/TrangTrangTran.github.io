@@ -1,14 +1,16 @@
-title: <p align="center">Trang Tran 
+title: <p align="center">Trang Tran </p>
 logo: "/images/image.png?raw=true"
 
 description:
+<p align="justify">
   A data enthusiast wants to find hard problems that data can solve.
   A lifelong learner wants to make my life a learning journey.
   <br><br>
   Email: trangtran.work.23@gmail.com
   <br>
   <a href="https://www.linkedin.com/in/trangtran1995/">  My LinkedIn Profile</a>
-  <br><br>
+   </p>
+  <br>
   
   
 remote_theme: pages-themes/minimal@v0.2.0
