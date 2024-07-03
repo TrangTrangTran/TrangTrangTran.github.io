@@ -4,21 +4,21 @@
 
 ### Data Analysis
 
-[Ramen Rating](/sample_page)
+[Ramen Rating](https://github.com/TrangTrangTran/Data_Analysis/tree/main/Ramen_ratings)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
-Analyze ramen data on the website [The Ramen Rater](https://www.theramenrater.com/) to see the ramen market and customers' flavor preferences.
+Analyzed data from The Ramen Rater[The Ramen Rater](https://www.theramenrater.com/) website to identify market trends and flavor preferences.
 
 
 
-[Solo travel](/pdf/sample_presentation.pdf)
+[Solo travel](https://github.com/TrangTrangTran/Data_Analysis/tree/main/Solo_travel)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
-Use Reddit API to scrape 1000 posts and comments of subreddit r/solotravel and analyze it to have a general picture of a solo travel community.
+Analyzed data from the subreddit r/solotravel to understand the solo travel community. Used Reddit API to scrape posts and comments, and performed data analysis to extract insights.
 
 
 
 [Amazon SQL books](https://github.com/TrangTrangTran/web_scraping/tree/main/agatha_christie_novels)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
-Use BeautifulSoup to scrape SQL books on Amazon website. 
+Used Python and Beautiful Soup for web scraping, and performed exploratory data analysis. 
 
 ---
 
@@ -26,7 +26,7 @@ Use BeautifulSoup to scrape SQL books on Amazon website.
 
 [Ramen Reviews 2020](https://github.com/TrangTrangTran/Data_Analysis/tree/main/Ramen_ratings/Ramen_reviews_2020)
 
-This project used Python and BeautifulSoup to collect ramen eaters' reviews in 2020 based on URLs of [Ramen Rating dataset]().
+This project used Python and BeautifulSoup to collect ramen eaters' reviews in 2020 based on URLs of [Ramen Rating dataset](https://github.com/TrangTrangTran/Data_Analysis/blob/main/Ramen_ratings/Ramen_ratings_2020.csv).
 
 
 
