@@ -6,7 +6,7 @@
 
 [Ramen Rating](https://github.com/TrangTrangTran/Data_Analysis/tree/main/Ramen_ratings)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
-Analyzed data from The Ramen Rater[The Ramen Rater](https://www.theramenrater.com/) website to identify market trends and flavor preferences.
+Analyzed data from [The Ramen Rater](https://www.theramenrater.com/) website to identify market trends and flavor preferences.
 
 
 
